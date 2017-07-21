@@ -53,4 +53,4 @@ export default class myStack extends Component {
 }
 
 
-AppRegistry.registerComponent('myStack', () => myStack);
+AppRegistry.registerComponent('Mystack', () => myStack);
